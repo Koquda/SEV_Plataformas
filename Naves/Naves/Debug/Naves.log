@@ -1,0 +1,10 @@
+﻿  Game.cpp
+C:\Users\aleja\OneDrive - Universidad de Oviedo\3º\SEV\Lab\ProyectoNaves\Naves\Naves\Naves\Audio.h(8,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\aleja\OneDrive - Universidad de Oviedo\3º\SEV\Lab\ProyectoNaves\Naves\Naves\Naves\Game.cpp(95,56): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleja\OneDrive - Universidad de Oviedo\3º\SEV\Lab\ProyectoNaves\Naves\Naves\Naves\Game.cpp(95,35): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  GameLayer.cpp
+C:\Users\aleja\OneDrive - Universidad de Oviedo\3º\SEV\Lab\ProyectoNaves\Naves\Naves\Naves\Audio.h(8,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\aleja\OneDrive - Universidad de Oviedo\3º\SEV\Lab\ProyectoNaves\Naves\Naves\Naves\GameLayer.cpp(157,35): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleja\OneDrive - Universidad de Oviedo\3º\SEV\Lab\ProyectoNaves\Naves\Naves\Naves\GameLayer.cpp(157,31): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+  Naves.vcxproj -> C:\Users\aleja\OneDrive - Universidad de Oviedo\3º\SEV\Lab\ProyectoNaves\Naves\Naves\Debug\Naves.exe
